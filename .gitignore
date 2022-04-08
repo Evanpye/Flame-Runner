@@ -76,10 +76,4 @@ crashlytics-build.properties
     Security
     Status
     Docs
-
-Library/ArtifactDB
-Library/ArtifactDB
-Library/SourceAssetDB
-*.log
-Library/ArtifactDB
-Library/SourceAssetDB
+    
