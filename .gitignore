@@ -81,3 +81,5 @@ Library/ArtifactDB
 Library/ArtifactDB
 Library/SourceAssetDB
 *.log
+Library/ArtifactDB
+Library/SourceAssetDB
